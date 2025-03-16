@@ -1,0 +1,8 @@
+{
+  "lr": 0.001,
+  "optimizer": "adam",
+  "max_epochs": 1,
+  "early_stopping": true,
+  "early_stopping_patience": 10,
+  "early_stopping_delta": 0.05
+}
